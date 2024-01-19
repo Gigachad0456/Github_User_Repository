@@ -13,9 +13,6 @@ GitHub User Explorer is a web application that allows users to search for GitHub
 - Loading indicators during API calls.
 - Optional search bar to filter repositories.
 
-## Demo
-
-You can try out the [GitHub User Explorer Demo](#) online.
 
 ## Getting Started
 
@@ -29,5 +26,4 @@ You can try out the [GitHub User Explorer Demo](#) online.
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/your-username/github-user-explorer.git
-cd github-user-explorer
+https://github.com/Gigachad0456/Github_User_Repository.git
