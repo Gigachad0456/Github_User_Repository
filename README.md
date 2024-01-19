@@ -1,4 +1,3 @@
-# Github_User_Repository
 
 # GitHub User Explorer
 
