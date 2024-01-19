@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+}
+
+.card img.card-img-top {
+    border-radius: 50%;
+}
+
+.card-body {
+    text-align: left;
+}
